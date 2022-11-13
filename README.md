@@ -1,12 +1,13 @@
 # Jackal Chain Assets
 
 ## Mainnet
-- `chain-id: jackal-1`
-- `genesis:` [genesis.json](https://cdn.discordapp.com/attachments/1002389406650466405/1034968352591986859/updated_genesis2.json)
+- `chain-id`: jackal-1
+- `genesis`: [genesis.json](https://cdn.discordapp.com/attachments/1002389406650466405/1034968352591986859/updated_genesis2.json)
+- `chain-registry`: [Jackal](https://github.com/cosmos/chain-registry/blob/master/jackal/chain.json)
 
 ## Testnet
-- `chain-id: lupulella-1`
-- `genesis:` [genesis.json](/testnet/genesis.json)
+- `chain-id`: lupulella-1
+- `genesis`: [genesis.json](/testnet/genesis.json)
 
 ## Block Explorers
 
