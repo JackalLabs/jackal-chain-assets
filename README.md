@@ -16,4 +16,5 @@
 | Ping Pub | https://ping.pub/jackal              | Ping Pub  |
 | Ping Pub | https://explorer.bccnodes.com/jackal | BccNodes  |
 | Ping Pub | https://exp.utsa.tech/jackal         | UTSA      |
+| Ping Pub | https://explorer.autostake.net       | AutoStake |
 | Ping Pub | https://explorer.agoranodes.com/jackal | AgoraNodes |
