@@ -10,6 +10,7 @@
 
 ## Block Explorers
 
-| Explorer | URL                     | Thanks To |
-|----------|-------------------------|-----------|
-| Ping Pub | https://ping.pub/jackal | Ping Pub  |
+| Explorer | URL                           | Thanks To |
+|----------|-------------------------------|-----------|
+| Ping Pub | https://ping.pub/jackal       | Ping Pub  |
+| Ping Pub | https://explorer.bccnodes.com | BccNodes  |
