@@ -15,3 +15,4 @@
 |----------|--------------------------------------|-----------|
 | Ping Pub | https://ping.pub/jackal              | Ping Pub  |
 | Ping Pub | https://explorer.bccnodes.com/jackal | BccNodes  |
+| Ping Pub | https://exp.utsa.tech/jackal         | UTSA      |
