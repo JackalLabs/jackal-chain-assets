@@ -10,3 +10,5 @@
 | REST | https://jackal.api.kjnodes.com | kjnodes     |
 | RPC  | https://jackal.rpc.bccnodes.com| BccNodes    |
 | REST | https://jackal.api.bccnodes.com| BccNodes    |
+| RPC  | https://m-jackal.rpc.utsa.tech | UTSA        |
+| REST | https://m-jackal.api.utsa.tech | UTSA        |
