@@ -1,1 +1,3 @@
 # Testnet Seeds
+
+- `f02c15ad3debdbab0845f399379871d8ee70a0c0@45.79.161.178:26657`
