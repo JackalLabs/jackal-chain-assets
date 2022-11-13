@@ -8,3 +8,5 @@
 | REST | https://api-jackal.nodeist.net | Nodeist     |
 | RPC  | https://jackal.rpc.kjnodes.com | kjnodes     |
 | REST | https://jackal.api.kjnodes.com | kjnodes     |
+| RPC  | https://jackal.rpc.bccnodes.com| BccNodes    |
+| REST | https://jackal.api.bccnodes.com| BccNodes    |
