@@ -17,4 +17,4 @@
 | RPC  | https://jackal.rpc.bccnodes.com     | BccNodes      |
 | RPC  | https://rpc.jackal.freak12techno.io | freak12techno |
 | RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
-| RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |    
+| RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
