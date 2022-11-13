@@ -12,3 +12,5 @@
 | REST | https://jackal.api.bccnodes.com     | BccNodes      |
 | RPC  | https://rpc.jackal.freak12techno.io | freak12techno |
 | REST | https://api.jackal.freak12techno.io | freak12techno |
+| RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
+| REST | https://m-jackal.api.utsa.tech      | UTSA          |
