@@ -10,6 +10,7 @@
 | REST | https://api.jackal.freak12techno.io | freak12techno |
 | REST | https://m-jackal.api.utsa.tech      | UTSA          |
 | REST | https://jackal-rest.agoranodes.com  | AgoraNodes    |
+| REST | https://api.jackal.nodestake.top    | NodeStake     |
 | RPC  | https://rpc.jackalprotocol.com      | Jackal Labs   |
 | RPC  | https://rpc-jackal.nodeist.net      | Nodeist       |
 | RPC  | https://rpc-jackal.d-stake.xyz      | D-stake       |
@@ -20,3 +21,5 @@
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
 | gRPC | https://jackal-grpc.agoranodes.com  | AgoraNodes    |
 | WSS  | wss://jackal-rpc.agoranodes.com     | AgoraNodes    |
+| RPC  | https://rpc.jackal.nodestake.top    | NodeStake     |
+| gRPC | https://grpc.jackal.nodestake.top   | NodeStake     |
