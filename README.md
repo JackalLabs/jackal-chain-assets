@@ -19,8 +19,9 @@
 | Ping Pub | https://explorer.autostake.net       | AutoStake |
 | Ping Pub | https://explorer.agoranodes.com/jackal | AgoraNodes |
 
-
 ## Web Wallet
+
 | URL                                  | Thanks To |
 |--------------------------------------|-----------|
 | https://jackal.ericet.xyz            | Ericet    |
+| https://restake.app/jackal           | ECO Stake |

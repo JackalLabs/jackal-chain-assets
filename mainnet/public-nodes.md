@@ -18,3 +18,12 @@
 | RPC  | https://rpc.jackal.freak12techno.io | freak12techno |
 | RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
+
+## Proxies
+
+Load balanced, health checked and CORS enabled proxies. Uses API nodes listed in the [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/jackal/chain.json#L82).
+
+| Type | URL                                  | Thanks To |
+|------|--------------------------------------|-----------|
+| REST | https://rest.cosmos.directory/jackal | ECO Stake |
+| RPC  | https://rpc.cosmos.directory/jackal  | ECO Stake |
