@@ -19,5 +19,7 @@
 | RPC  | https://rpc.jackal.freak12techno.io | freak12techno |
 | RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
+| gRPC | https://jackal-grpc.agoranodes.com  | AgoraNodes    |
+| WSS  | wss://jackal-rpc.agoranodes.com     | AgoraNodes    |
 | RPC  | https://rpc.jackal.nodestake.top    | NodeStake     |
 | gRPC | https://grpc.jackal.nodestake.top   | NodeStake     |
