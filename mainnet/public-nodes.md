@@ -10,6 +10,7 @@
 | REST | https://api.jackal.freak12techno.io | freak12techno |
 | REST | https://m-jackal.api.utsa.tech      | UTSA          |
 | REST | https://jackal-rest.agoranodes.com  | AgoraNodes    |
+| REST | https://jackal-api.kleomedes.network| Kleomedes     |
 | RPC  | https://rpc.jackalprotocol.com      | Jackal Labs   |
 | RPC  | https://rpc-jackal.nodeist.net      | Nodeist       |
 | RPC  | https://rpc-jackal.d-stake.xyz      | D-stake       |
@@ -18,3 +19,4 @@
 | RPC  | https://rpc.jackal.freak12techno.io | freak12techno |
 | RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
+| RPC  | https://jackal-rpc.kleomedes.network| Kleomedes     |
