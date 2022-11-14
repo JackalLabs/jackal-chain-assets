@@ -19,3 +19,4 @@
 | RPC  | https://m-jackal.rpc.utsa.tech      | UTSA          |
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
 | gRPC | https://jackal-grpc.agoranodes.com  | AgoraNodes    |
+| WSS  | wss://jackal-rpc.agoranodes.com     | AgoraNodes    |
