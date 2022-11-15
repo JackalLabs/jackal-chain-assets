@@ -20,6 +20,7 @@
 | Ping Pub | https://explorer.agoranodes.com/jackal | AgoraNodes |
 | Ping Pub | https://explorer.nodestake.top/jackal  | NodeStake |
 | Ping Pub | https://explorer.kjnodes.com/jackal  | kjnodes |
+| Ping Pub | https://explorer.silknodes.io/jackal  | Silk Nodes |
 
 ## Web Wallet
 | URL                                  | Thanks To |
