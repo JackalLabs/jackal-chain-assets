@@ -12,6 +12,7 @@
 | REST | https://jackal-rest.agoranodes.com  | AgoraNodes    |
 | REST | https://jackal-api.kleomedes.network| Kleomedes     |
 | REST | https://api.jackal.nodestake.top    | NodeStake     |
+| REST | https://jkl.api.m.stavr.tech        | STAVR         |
 | RPC  | https://rpc.jackalprotocol.com      | Jackal Labs   |
 | RPC  | https://rpc-jackal.nodeist.net      | Nodeist       |
 | RPC  | https://rpc-jackal.d-stake.xyz      | D-stake       |
@@ -22,6 +23,7 @@
 | RPC  | https://jackal-rpc.agoranodes.com   | AgoraNodes    |
 | RPC  | https://jackal-rpc.kleomedes.network| Kleomedes     |
 | gRPC | https://jackal-grpc.agoranodes.com  | AgoraNodes    |
+| gRPC | http://jkl.grpc.m.stavr.tech:5013   | STAVR         |
 | WSS  | wss://jackal-rpc.agoranodes.com     | AgoraNodes    |
 | RPC  | https://rpc.jackal.nodestake.top    | NodeStake     |
 | gRPC | https://grpc.jackal.nodestake.top   | NodeStake     |
