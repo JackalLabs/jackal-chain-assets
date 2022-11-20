@@ -22,6 +22,8 @@
 | Ping Pub | https://explorer.kjnodes.com/jackal  | kjnodes |
 
 ## Web Wallet
+
 | URL                                  | Thanks To |
 |--------------------------------------|-----------|
 | https://jackal.ericet.xyz            | Ericet    |
+| https://restake.app/jackal           | ECO Stake |

@@ -25,3 +25,12 @@
 | WSS  | wss://jackal-rpc.agoranodes.com     | AgoraNodes    |
 | RPC  | https://rpc.jackal.nodestake.top    | NodeStake     |
 | gRPC | https://grpc.jackal.nodestake.top   | NodeStake     |
+
+## Proxies
+
+Load balanced, health checked and CORS enabled proxies. Uses API nodes listed in the [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/jackal/chain.json#L82).
+
+| Type | URL                                  | Thanks To |
+|------|--------------------------------------|-----------|
+| REST | https://rest.cosmos.directory/jackal | ECO Stake |
+| RPC  | https://rpc.cosmos.directory/jackal  | ECO Stake |
