@@ -26,3 +26,12 @@
 | gRPC | https://grpc.jackal.nodestake.top      | NodeStake     |
 | gRPC | https://jackal.grpc.bccnodes.com:37090 | BccNodes      |
 | WSS  | wss://jackal-rpc.agoranodes.com        | AgoraNodes    |
+
+## Proxies
+
+Load balanced, health checked and CORS enabled proxies. Uses API nodes listed in the [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/jackal/chain.json#L82).
+
+| Type | URL                                  | Thanks To |
+|------|--------------------------------------|-----------|
+| REST | https://rest.cosmos.directory/jackal | ECO Stake |
+| RPC  | https://rpc.cosmos.directory/jackal  | ECO Stake |
