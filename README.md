@@ -21,8 +21,11 @@
 | Ping Pub | https://explorer.nodestake.top/jackal  | NodeStake |
 | Ping Pub | https://explorer.kjnodes.com/jackal  | kjnodes |
 | Ping Pub | https://explorer.stavr.tech/jackal   | STAVR |
+| Ping Pub | https://exp.nodeist.net/m-jackal  | Nodeist |
 
 ## Web Wallet
+
 | URL                                  | Thanks To |
 |--------------------------------------|-----------|
 | https://jackal.ericet.xyz            | Ericet    |
+| https://restake.app/jackal           | ECO Stake |
