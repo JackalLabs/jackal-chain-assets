@@ -287,7 +287,6 @@
     "storage": {
       "params": {},
       "contractsList": [],
-      "proofsList": [],
       "activeDealsList": [],
       "providersList": [],
       "payBlocksList": [],
