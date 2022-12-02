@@ -1,3 +1,3 @@
 # Testnet Seeds
 
-- `f02c15ad3debdbab0845f399379871d8ee70a0c0@45.79.161.178:26657`
+- `84f520678ef59ea02f942fa6323ec562ca5a3249@testnet-val-rpc.jackalprotocol.com`
