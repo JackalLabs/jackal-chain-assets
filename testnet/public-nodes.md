@@ -6,3 +6,4 @@
 | REST | https://testnet-api.jackalprotocol.com | Jackal Labs |
 | RPC  | https://rpc-testjackal.nodeist.net     | Nodeist     |
 | REST | https://api-testjackal.nodeist.net     | Nodeist     |
+| REST | https://jkl.api.t.stavr.tech           | STAVR       |
