@@ -7,7 +7,7 @@
 | REST | https://jackal.api.kjnodes.com         | kjnodes       |
 | REST | https://api-jackal.d-stake.xyz         | D-stake       |
 | REST | https://jackal.api.bccnodes.com        | BccNodes      |
-| REST | https://api.jackal.freak12techno.io    | freak12techno |
+| REST | https://api.jackal.quokkastake.io      | Quokka Stake  |
 | REST | https://m-jackal.api.utsa.tech         | UTSA          |
 | REST | https://jackal-rest.agoranodes.com     | AgoraNodes    |
 | REST | https://jackal-api.kleomedes.network   | Kleomedes     |
@@ -19,7 +19,7 @@
 | RPC  | https://rpc-jackal.d-stake.xyz         | D-stake       |
 | RPC  | https://jackal.rpc.kjnodes.com         | kjnodes       |
 | RPC  | https://jackal.rpc.bccnodes.com        | BccNodes      |
-| RPC  | https://rpc.jackal.freak12techno.io    | freak12techno |
+| RPC  | https://rpc.jackal.quokkastake.io      | Quokka Stake  |
 | RPC  | https://m-jackal.rpc.utsa.tech         | UTSA          |
 | RPC  | https://jackal-rpc.agoranodes.com      | AgoraNodes    |
 | RPC  | https://jackal-rpc.kleomedes.network   | Kleomedes     |
