@@ -9,7 +9,7 @@
 ## Testnet
 - `chain-id`: lupulella-2
 - `genesis`: [genesis.json](/testnet/genesis.json)
-- `binary version`: 2.0.0
+- `binary version`: 2.0.2
 
 ## Block Explorers
 
