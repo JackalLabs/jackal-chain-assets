@@ -25,6 +25,7 @@
 | Ping Pub | https://explorer.stavr.tech/jackal       | STAVR          |
 | Ping Pub | https://exp.nodeist.net/m-jackal         | Nodeist        |
 | Ping Pub | https://explorer.thesilverfox.pro/jackal | The Silver Fox |
+| Ping Pub | https://explorer.silknodes.io/jackal     | Silk Nodes     |
 
 ## Web Wallet
 

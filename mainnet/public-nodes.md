@@ -14,6 +14,7 @@
 | REST | https://api.jackal.nodestake.top       | NodeStake     |
 | REST | https://jkl.api.m.stavr.tech           | STAVR         |
 | REST | https://api-jkl.kjinc.io               | KJINC.io      |
+| REST | https://jackal.api.silknodes.io        | Silk Nodes    |
 | RPC  | https://rpc.jackalprotocol.com         | Jackal Labs   |
 | RPC  | https://rpc-jackal.nodeist.net         | Nodeist       |
 | RPC  | https://rpc-jackal.d-stake.xyz         | D-stake       |
@@ -25,6 +26,7 @@
 | RPC  | https://jackal-rpc.kleomedes.network   | Kleomedes     |
 | RPC  | https://rpc.jackal.nodestake.top       | NodeStake     |
 | RPC  | https://rpc-jkl.kjinc.io               | KJINC.io      |
+| RPC  | https://jackal.rpc.silknodes.io        | Silk Nodes    |
 | gRPC | https://jackal-grpc.agoranodes.com     | AgoraNodes    |
 | gRPC | https://grpc.jackal.nodestake.top      | NodeStake     |
 | gRPC | https://jackal.grpc.bccnodes.com:37090 | BccNodes      |
