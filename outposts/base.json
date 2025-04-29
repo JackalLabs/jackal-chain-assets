@@ -1,0 +1,12 @@
+{
+  "contracts": {
+    "mainnet": {
+      "bridge": "0x60766928613b818053e9922fc655ab9b7126a02e",
+      "drawer": "0xd43e4dfa9ac4d03be4cee47f17986298726eb9f5"
+    },
+    "testnet": {
+      "bridge": "0x6f348699508B317862348f8d6F41795900E8d14A",
+      "drawer": "0x83f69195100eea97BA9Fd0a4e15a1657Efd9D631"
+    }
+  }
+}
